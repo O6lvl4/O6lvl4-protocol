@@ -49,7 +49,7 @@
 - 「毎日同じ強度」は危険。**強度を分散させる**のが正解
 - 完全休養は週0〜1日でよいが、その日も10〜30分の散歩は推奨
 
-つまり「毎日**動く**」は正解、「毎日**走る/追い込む**」は間違い。Zone 2 の具体例と詳細配分は [P2 有酸素プロトコル](./protocols/p2-cardio.md) を参照。
+つまり「毎日**動く**」は正解、「毎日**走る/追い込む**」は間違い。Zone 2 の具体例と詳細配分は [P2 有酸素プロトコル](./protocols/p02-cardio.md) を参照。
 
 ## プロトコル一覧
 
@@ -57,15 +57,15 @@
 
 | 順 | プロトコル | 役割 |
 |---|---|---|
-| 1 | [P1 睡眠](./protocols/p1-sleep.md) | 翌朝の脳の起動品質 |
-| 2 | [P6 光・概日リズム](./protocols/p6-light.md) | P1 の前提 |
-| 3 | [P4 食事](./protocols/p4-diet.md) | 血糖の安定 |
-| 4 | [P5 水分・カフェイン](./protocols/p5-hydration.md) | 短期の認知 |
-| 5 | [P9 回復](./protocols/p9-recovery.md) | 慢性疲労の予防 |
-| 6 | [P2 有酸素](./protocols/p2-cardio.md) | 中長期の脳血流 |
-| 7 | [P7 座位・姿勢](./protocols/p7-posture.md) | 日中のコンディション |
-| 8 | [P8 認知ワーク](./protocols/p8-deep-work.md) | 出力側の最適化 |
-| 9 | [P3 筋力](./protocols/p3-strength.md) | インフラ筋の維持 |
+| 1 | [P1 睡眠](./protocols/p01-sleep.md) | 翌朝の脳の起動品質 |
+| 2 | [P6 光・概日リズム](./protocols/p06-light.md) | P1 の前提 |
+| 3 | [P4 食事](./protocols/p04-diet.md) | 血糖の安定 |
+| 4 | [P5 水分・カフェイン](./protocols/p05-hydration.md) | 短期の認知 |
+| 5 | [P9 回復](./protocols/p09-recovery.md) | 慢性疲労の予防 |
+| 6 | [P2 有酸素](./protocols/p02-cardio.md) | 中長期の脳血流 |
+| 7 | [P7 座位・姿勢](./protocols/p07-posture.md) | 日中のコンディション |
+| 8 | [P8 認知ワーク](./protocols/p08-deep-work.md) | 出力側の最適化 |
+| 9 | [P3 筋力](./protocols/p03-strength.md) | インフラ筋の維持 |
 | 10 | [P10 計測](./protocols/p10-measurement.md) | 観測系 |
 
 ## 唯一の最適化対象
