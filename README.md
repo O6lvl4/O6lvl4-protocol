@@ -67,9 +67,10 @@
 | 8 | [P02 有酸素](./protocols/p02-cardio.md) | 中長期の脳血流 |
 | 9 | [P07 座位・姿勢](./protocols/p07-posture.md) | 日中のコンディション |
 | 10 | [P08 認知ワーク](./protocols/p08-deep-work.md) | 出力側の最適化 |
-| 11 | [P03 筋力](./protocols/p03-strength.md) | インフラ筋の維持 |
-| 12 | [P12 口腔ケア](./protocols/p12-oral-care.md) | 長期の認知保護（10年単位） |
-| 13 | [P10 計測](./protocols/p10-measurement.md) | 観測系 |
+| 11 | [P14 知識管理](./protocols/p14-knowledge-management.md) | 出力の保管と複利化 |
+| 12 | [P03 筋力](./protocols/p03-strength.md) | インフラ筋の維持 |
+| 13 | [P12 口腔ケア](./protocols/p12-oral-care.md) | 長期の認知保護（10年単位） |
+| 14 | [P10 計測](./protocols/p10-measurement.md) | 観測系 |
 
 ## 唯一の最適化対象
 

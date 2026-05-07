@@ -32,5 +32,5 @@
 
 ## 復旧手順
 
-- 該当する上位プロトコル（[P01](./p01-sleep.md)〜[P09](./p09-recovery.md)、[P11](./p11-bathing.md)、[P12](./p12-oral-care.md)、[P13](./p13-breathing.md)）の違反検知を順にチェック
+- 該当する上位プロトコル（[P01](./p01-sleep.md)〜[P09](./p09-recovery.md)、[P11](./p11-bathing.md)〜[P14](./p14-knowledge-management.md)）の違反検知を順にチェック
 - 最初に該当したものを24時間以内に修正
